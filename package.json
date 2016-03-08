@@ -1,0 +1,28 @@
+{
+  "name": "examples-hapi-marko",
+  "version": "0.0.0",
+  "description": "examples using markojs and hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidenq/example-hapi-marko.git"
+  },
+  "keywords": [
+    "markojs",
+    "hapijs",
+    "nodejs"
+  ],
+  "author": "David Núñez <davip@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidenq/example-hapi-marko/issues"
+  },
+  "homepage": "https://github.com/davidenq/example-hapi-marko#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "marko": "^2.9.1"
+  }
+}
